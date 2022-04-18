@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-orm",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "The ORM hook from Sails core.",
   "main": "index.js",
   "scripts": {
@@ -28,7 +28,7 @@
     "lodash": "3.10.1",
     "prompt": "1.2.0",
     "rttc": "~9.3.0",
-    "waterline": "~0.12.2"
+    "waterline": "https://github.com/tourware/waterline#0.11.13"
   },
   "sails": {
     "isHook": true,
